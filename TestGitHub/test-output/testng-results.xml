@@ -11,26 +11,26 @@
       <![CDATA[Title for Yahoo: Yahoo]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="93586" started-at="2016-03-14T01:13:54Z" finished-at="2016-03-14T01:15:28Z">
+  <suite name="Parallal Class Execution" duration-ms="98819" started-at="2016-03-14T02:08:46Z" finished-at="2016-03-14T02:10:25Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="93586" started-at="2016-03-14T01:13:54Z" finished-at="2016-03-14T01:15:28Z">
+    <test name="Parallel class Testing" duration-ms="98819" started-at="2016-03-14T02:08:46Z" finished-at="2016-03-14T02:10:25Z">
       <class name="package1.GitHubJenkinsTest">
-        <test-method status="PASS" signature="TC1_testOnFaceBook()[pri:0, instance:package1.GitHubJenkinsTest@233c0b17]" name="TC1_testOnFaceBook" duration-ms="31974" started-at="2016-03-13T21:13:54Z" finished-at="2016-03-13T21:14:26Z">
+        <test-method status="PASS" signature="TC1_testOnFaceBook()[pri:0, instance:package1.GitHubJenkinsTest@233c0b17]" name="TC1_testOnFaceBook" duration-ms="28214" started-at="2016-03-13T22:08:46Z" finished-at="2016-03-13T22:09:15Z">
           <reporter-output>
             <line>
               <![CDATA[Title for Facebook: Facebook - Log In or Sign Up]]>
             </line>
           </reporter-output>
         </test-method> <!-- TC1_testOnFaceBook -->
-        <test-method status="PASS" signature="TC2_testOnGoogle()[pri:1, instance:package1.GitHubJenkinsTest@233c0b17]" name="TC2_testOnGoogle" duration-ms="28979" started-at="2016-03-13T21:14:26Z" finished-at="2016-03-13T21:14:55Z">
+        <test-method status="PASS" signature="TC2_testOnGoogle()[pri:1, instance:package1.GitHubJenkinsTest@233c0b17]" name="TC2_testOnGoogle" duration-ms="35363" started-at="2016-03-13T22:09:15Z" finished-at="2016-03-13T22:09:50Z">
           <reporter-output>
             <line>
               <![CDATA[Title for Google: Google]]>
             </line>
           </reporter-output>
         </test-method> <!-- TC2_testOnGoogle -->
-        <test-method status="PASS" signature="TC3_testOnYahoo()[pri:2, instance:package1.GitHubJenkinsTest@233c0b17]" name="TC3_testOnYahoo" duration-ms="32575" started-at="2016-03-13T21:14:55Z" finished-at="2016-03-13T21:15:28Z">
+        <test-method status="PASS" signature="TC3_testOnYahoo()[pri:2, instance:package1.GitHubJenkinsTest@233c0b17]" name="TC3_testOnYahoo" duration-ms="35129" started-at="2016-03-13T22:09:50Z" finished-at="2016-03-13T22:10:25Z">
           <reporter-output>
             <line>
               <![CDATA[Title for Yahoo: Yahoo]]>
@@ -38,6 +38,6 @@
           </reporter-output>
         </test-method> <!-- TC3_testOnYahoo -->
       </class> <!-- package1.GitHubJenkinsTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Parallel class Testing -->
+  </suite> <!-- Parallal Class Execution -->
 </testng-results>
