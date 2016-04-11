@@ -4,7 +4,7 @@
   <test name="Parallel class Testing">
     <classes>
       <class name="package1.GitHubJenkinsTest"/>
-      <class name="package1.GitHubJenkinsTest"/>
+      <class name="package1.TestGitHub"/>
       
     </classes>
   </test> <!-- Parallel Testing -->
